@@ -1,45 +1,141 @@
-<h1 align="center">Hi 👋, I'm Md. Nur E Alam Siddiquee</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">[Cyber World](#)<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nur&label=Profile%20views&color=0e75b6&style=flat" alt="md-nur" /> </p>
+<div class="collapse navbar-collapse" id="navbarNav">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nur" alt="md-nur" /></a> </p>
+*   [Home <span class="sr-only">(current)</span>](#)
+*   [Developer](#developer)
+*   [Members](#Members)
+*   [Programming](#)
+*   [Graphic Designing](#)
 
-<p align="left"> <a href="https://twitter.com/@mdnur9211" target="blank"><img src="https://img.shields.io/twitter/follow/@mdnur9211?logo=twitter&style=for-the-badge" alt="@mdnur9211" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Saif Academy](http://saifacademy.rf.gd/)
+</nav>
 
-- 🌱 I’m currently learning **C programing**
+<header>
 
-- 👯 I’m looking to collaborate on [Learn Python](https://github.com/Md-Nur/LearnPython)
+# Cyber World
 
-- 🤝 I’m looking for help with [College Website](http://nuracademy.epizy.com/)
+Learn with your own interest
 
-- 👨‍💻 All of my projects are available at [https://github.com/Md-Nur/](https://github.com/Md-Nur/)
+</header>
 
-- 📝 I regularly write articles on [https://twitter.com/MdNur9211](https://twitter.com/MdNur9211)
+<div class="intro">
 
-- 💬 Ask me about **HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap, C, Python**
+## Introduction
 
-- 📫 How to reach me **md.nurealamsiddiquee2004@gmail.com**
+Wellcome to Ceyber World Group. In this group discusses almost all issues related to ICT. In this group help each other through discussion. The word "Cyber world" is related to the information and technology.In the group,we will help each other to learn programming. If one learner one to be a programmer,he should follow our website, our facebook group, and our messenger group.The "Cyber World" is a voluntarian group, which helps one learner, to become a programmer. So one should follow and maintain our sequence and our advices. One should learn the HTML language first because it is the fundamental language of programming. So One who want to learn programming he should complete the HTML and CSS course firstly,Then he should learn C programming. One should be patient to learn programming. So keep pace,stay with us & follow us.A good learner should be determined to learn programming. He should not be hopeless. Creativity and Patience are major issues for it. So keep pace and don't be hopeless....
 
-- ⚡ Fun fact **I am funny**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mdnur9211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@mdnur9211" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdnur9211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdnur9211" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13151007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13151007" height="30" width="40" /></a>
-<a href="https://fb.com/md.nur9211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="md.nur9211" height="30" width="40" /></a>
-<a href="https://discord.gg/6438" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="6438" height="30" width="40" /></a>
-</p>
+## Developers for this website
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div class="container">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-nur&show_icons=true&locale=en&layout=compact" alt="md-nur" /></p>
+<div class="card-deck">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-nur&show_icons=true&locale=en" alt="md-nur" /></p>
+<div class="card">![Nur's Picture](Nur.jpg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nur&" alt="md-nur" /></p>
+<div class="card-body">
 
+##### Md.Nur
+
+Md.Nur is the HTML & JavaScript developer of this website. Md. Nur is a uncertified JavaScript web developer.
+
+[Konw more](https://md-nur.github.io/Porfolio/)</div>
+
+</div>
+
+<div class="card">![Mehrab's Picture](Mehrab.jpg)
+
+<div class="card-body">
+
+##### Mehrab Hassan
+
+Mehrab Hassan is the Css developer of this website. Mehrab Hasan is a certified CSS web developer
+
+[Konw more](https://www.facebook.com/mehrab.hassan.56808)</div>
+
+</div>
+
+<div class="card">![Coming Soon](coming soon.jpg)
+
+<div class="card-body">
+
+##### Need a HTML developer
+
+Every website bulid width HTML codes. But we have no html developer for this website. So, we need a HTML developer.
+
+[Contact Us](https://www.facebook.com/groups/542386506442854)</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="Members">
+
+## Members:
+
+1.  Md.Nur E Alam Siddiquee <sub>(Leader)</sub>
+2.  Mehrab Hasan Mahin <sub>(Co-leader)</sub>
+3.  Saazid Bin Saif <sub>(Elder)</sub>
+4.  Tafsir Bin Islam <sub>(Member)</sub>
+5.  Muwafiq Khan Josh <sub>(Member)</sub>
+
+</div>
+
+<footer>
+
+<table><caption>Copyright © All right reserved by  
+Cyber World Group 2020</caption>
+
+<tbody>
+
+<tr>
+
+<th>
+
+### Md.Nur
+
+</th>
+
+<th class="vr">
+
+### Mehrab Hasan
+
+</th>
+
+<th>
+
+### Comming Soon
+
+</th>
+
+</tr>
+
+<tr>
+
+<td>[Facebook](https://www.facebook.com/Md.NurEAlamSiddiquee/)</td>
+
+<td class="vr">[Facebook](https://www.facebook.com/mehrab.hassan.56808)</td>
+
+<td>We need a html developer. If anyoner wants to be our developer, then contact us  
+[Facebook Group](https://www.facebook.com/groups/542386506442854)</td>
+
+</tr>
+
+<tr>
+
+<td>[Twitter](https://twitter.com/MdNur52709170)</td>
+
+<td class="vr">[Youtube](https://www.youtube.com/channel/UCTjhYn3E2JQJYc_Fk5R08vg)</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</footer>
