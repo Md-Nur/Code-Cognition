@@ -5,19 +5,27 @@ export default function Services() {
   const services = [
     {
       title: "Custom Software Development",
-      imageUrl: "/service1.png",
+      imageUrl: "/services/customeSoftware.png",
     },
     {
       title: "Web Development",
-      imageUrl: "/service2.png",
+      imageUrl: "/services/webDevelopment.png",
     },
     {
       title: "Mobile App Development",
-      imageUrl: "/service3.png",
+      imageUrl: "/services/mobileDevelopement.png",
     },
     {
       title: "SQL Database Development",
-      imageUrl: "/service4.png",
+      imageUrl: "/services/sqlDevelopment.png",
+    },
+    {
+      title: "Video Editing",
+      imageUrl: "/services/videoEditing.jpg",
+    },
+    {
+      title: "Ui & Ux Designing",
+      imageUrl: "/services/uiUx.png",
     },
   ];
 
