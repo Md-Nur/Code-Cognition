@@ -31,7 +31,7 @@ export default function Services() {
 
   return (
     <section className="my-5">
-      <h2 className="text-[#AAFF30] text-[40px] text-center font-semibold uppercase mb-16">
+      <h2 className="text-[#AAFF30] text-2xl sm:text-3xl md:text-4xl lg:text-[40px] text-center font-semibold uppercase mb-16">
         Our Programming Tech Services
       </h2>
 
