@@ -4,7 +4,7 @@ import Image from "next/image";
 function Footer() {
   return (
     <footer className="text-white text-center pt-10">
-      <div className="bg-[#16A072] flex justify-evenly px-5 py-44">
+      <div className="bg-[#16A072] flex flex-wrap gap-5 justify-evenly px-5 py-44">
         <div className="w-[500px]">
           <p className="text-xl font-semibold">
             <span className="text-[#AAFF30] text-5xl">Code</span>{" "}
