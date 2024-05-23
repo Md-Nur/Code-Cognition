@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.hero{
-    background-image: url('./assets/hero/heroplus.png');
-    background-position: center;
-    background-size: cover;
-}
