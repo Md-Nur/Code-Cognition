@@ -10,11 +10,11 @@ const Navbar = () => {
       <div className="navbar-start mx-3">
         <div className="dropdown">
           {/*  Add drawer button here */}
-          <label htmlFor="my-drawer" className="">
+          <label htmlFor="my-drawer" className="lg:hidden">
             <IoMenu className="h-6 w-6" />
           </label>
         </div>
-        <Link href="/" className="flex items-center gap-1">
+        <Link href="/" className="flex items-center gap-1 mx-1">
           <Image src={logo} alt="logo" width={40} height={40} />
           Code & Cognition
         </Link>
